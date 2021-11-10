@@ -1,0 +1,20 @@
+.header {
+    padding: 40px;
+    text-align: left;
+    background: grey;
+    font-size: 25px;
+  
+  }
+  a:link {
+    color:white;
+    text-decoration: none;
+}
+a:visited {
+    color:white;
+    text-decoration: none;
+}
+
+.nextto {
+  float: left;
+  width: 5cm;
+}
